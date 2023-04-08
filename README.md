@@ -17,3 +17,5 @@ Usprawnienia:
 1. W zakładkach Kalkulator i Obliczenia w polach wprowadzania danych, zablokowano wprowadzanie liter i symboli, dozwolone tylko liczby i przecinek, co już nie powoduje wyjątków (błędów).
 2. Przy usuwaniu elementów z listBoxa pojawia się teraz okienko dialogowe potwierdzające usunięcie, również dla opcji "Usuń wszystko".
 Dziękuję za korzystanie z aplikacji Notes Pro v1.150.
+
+Wideo https://www.youtube.com/watch?v=PagyGDDTH5Q
